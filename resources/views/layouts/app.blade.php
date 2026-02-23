@@ -158,9 +158,9 @@
                 </div>
                 <div>
                     <h3 class="font-bold text-gray-800 mb-4">Контакты</h3>
-                    <p class="text-gray-600 text-sm mb-2">📍 ул. Ледовая, 123</p>
-                    <p class="text-gray-600 text-sm mb-2">📞 +7 (999) 123-45-67</p>
-                    <p class="text-gray-600 text-sm">✉️ info@kotak.ru</p>
+                    <p class="text-gray-600 text-sm mb-2">ул. Ледовая, 123</p>
+                    <p class="text-gray-600 text-sm mb-2">+7 (999) 123-45-67</p>
+                    <p class="text-gray-600 text-sm">info@kotak.ru</p>
                 </div>
                 <div>
                     <h3 class="font-bold text-gray-800 mb-4">Мы в соцсетях</h3>
